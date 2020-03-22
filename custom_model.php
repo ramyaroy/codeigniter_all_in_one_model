@@ -214,9 +214,11 @@ function donumrows($table,$select,$where,$orderby,$limit)
   }
 
      
-  } 
+  }
+
 	
 }
 	
 	
- 
+	
+	?>
